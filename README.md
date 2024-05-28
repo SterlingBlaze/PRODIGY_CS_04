@@ -12,4 +12,4 @@ This Python program records keystrokes and saves them to a file. Please note tha
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/basic-keylogger.git
+   git clone https://github.com/SterlingBlaze/PRODIGY_CS_04.git
